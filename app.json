@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "noorsoft-intership-development-version-mobile",
+    "slug": "noorsoft-intership-development-version-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "",
+    "splash": {
+      "image": "",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "noorsoftMobile.com"
+    },
+    "web": {
+      "favicon": ""
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "884624786586",
+    "firebase_url": "https://noorsoft-project-e95ff-default-rtdb.firebaseio.com",
+    "project_id": "noorsoft-project-e95ff",
+    "storage_bucket": "noorsoft-project-e95ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884624786586:android:1263a1400a787253a14b23",
+        "android_client_info": {
+          "package_name": "noorsoftMobile.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884624786586-ef42th61tutrd6ug8b6l7nkadjahtqp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwN-hLiOP4FehYmtv0pmvNpLy-KVPdnNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884624786586-ef42th61tutrd6ug8b6l7nkadjahtqp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
